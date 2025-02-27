@@ -1,3 +1,7 @@
 f6f3593 (HEAD -> main, origin/main) Добавил log.txt
 f5fd037 Добавил status.txt
+<<<<<<< HEAD
 4e4115f Добавил README.md
+=======
+4e4115f Добавил README.md
+>>>>>>> c2ec2ca4898fc4e0beae69f352bdfaa1846ed53e
