@@ -1,1 +1,3 @@
-git log --oneline --all
+f6f3593 (HEAD -> main, origin/main) Добавил log.txt
+f5fd037 Добавил status.txt
+4e4115f Добавил README.md
